@@ -1,0 +1,281 @@
+[
+    {
+      "id": 1,
+      "name": "Bhaskar",
+      "fullName": "Vijay Bhaskar Menta",
+      "ticketNumber": 101,
+      "ticketTopic":"CSE",
+      "ratingGrade": 7,
+      "examGrade": 8,
+      "finalGrade": 0,
+      "status": "na",
+      "details": [
+        0]
+    },
+    {
+      "id": 2,
+      "name": "junaid",
+      "fullName": "Mir Junaid Rasool",
+      "ticketNumber": 102,
+      "ticketTopic":"CSE",
+      "ratingGrade": 9,
+      "examGrade": 9,
+      "finalGrade": 0,
+      "status": "na",
+      "details": [
+        0
+      ]
+    },
+    {
+      "id": 3,
+      "name": "sandeep",
+      "fullName": "Sandeep Kaur Panesar",
+      "ticketNumber": 103,
+      "ticketTopic":"AI",
+      "ratingGrade": 9,
+      "examGrade": 9,
+      "finalGrade": 0,
+      "status": "na",
+      "details": [
+        0
+      ]
+    },
+    {
+      "id": 4,
+      "name": "vijay",
+      "fullName": "Vijay Bhaskar P",
+      "ticketNumber": 104,
+      "ticketTopic":"ML",
+      "ratingGrade": 9,
+      "examGrade": 7,
+      "finalGrade": 0,
+      "status": "na",
+      "details": [
+        0
+      ]
+    },
+    {
+      "id": 5,
+      "name": "mir",
+      "fullName": "SomeThing",
+      "ticketNumber": 105,
+      "ticketTopic":"DS",
+      "ratingGrade": 8,
+      "examGrade": 8,
+      "finalGrade": 0,
+      "status": "na",
+      "details": [
+        0
+      ]
+    },
+    {
+      "id": 6,
+      "name": "kaur",
+      "fullName": "SomeThing",
+      "ticketNumber": 106,
+      "ticketTopic":"OOPS",
+      "ratingGrade": 8,
+      "examGrade": 7,
+      "finalGrade": 0,
+      "status": "na",
+      "details": [
+        0
+      ]
+    },
+    {
+      "id": 7,
+      "name": "vivek",
+      "fullName": "SomeThing",
+      "ticketNumber": 107,
+      "ticketTopic":"Science",
+      "ratingGrade": 5,
+      "examGrade": 5,
+      "finalGrade": 0,
+      "status": "na",
+      "details": [
+        0
+      ]
+    },
+    {
+      "id": 8,
+      "name": "rajesh",
+      "fullName": "SomeThing",
+      "ticketNumber": 108,
+      "ticketTopic":"GK",
+      "ratingGrade": 3,
+      "examGrade": 4,
+      "finalGrade": 0,
+      "status": "na",
+      "details": [
+        0
+      ]
+    },
+    {
+      "id": 9,
+      "name": "ankush",
+      "fullName": "SomeThing",
+      "ticketNumber": 109,
+      "ticketTopic":"JS",
+      "ratingGrade": 9,
+      "examGrade": 9,
+      "finalGrade": 0,
+      "status": "na",
+      "details": [
+        0
+      ]
+    },
+    {
+      "id": 10,
+      "name": "neha",
+      "fullName": "SomeThing",
+      "ticketNumber": 110,
+      "ticketTopic":"DOM",
+      "ratingGrade": 3,
+      "examGrade": 4,
+      "finalGrade": 0,
+      "status": "na",
+      "details": [
+        0
+      ]
+    },
+    {
+      "id": 11,
+      "name": "chandu",
+      "fullName": "SomeThing",
+      "ticketNumber": 111,
+      "ticketTopic":"Django",
+      "ratingGrade": 3,
+      "examGrade": 4,
+      "finalGrade": 0,
+      "status": "na",
+      "details": [
+        0
+      ]
+    },
+    {
+      "id": 12,
+      "name": "tanya",
+      "fullName": "SomeThing",
+      "ticketNumber": 112,
+      "ticketTopic":"DL",
+      "ratingGrade": 8,
+      "examGrade": 7,
+      "finalGrade": 0,
+      "status": "na",
+      "details": [
+        0
+      ]
+    },
+    {
+      "id": 13,
+      "name": "sk",
+      "fullName": "SomeThing",
+      "ticketNumber": 113,
+      "ticketTopic":"cse",
+      "ratingGrade": 2,
+      "examGrade": 3,
+      "finalGrade": 0,
+      "status": "na",
+      "details": [
+        0
+      ]
+    },
+    {
+      "id": 14,
+      "name": "raju",
+      "fullName": "SomeThing",
+      "ticketNumber": 114,
+      "ticketTopic":"cse",
+      "ratingGrade": 2,
+      "examGrade": 5,
+      "finalGrade": 0,
+      "status": "na",
+      "details": [
+        0
+      ]
+    },
+    {
+      "id": 15,
+      "name": "pavan",
+      "fullName": "SomeThing",
+      "ticketNumber": 115,
+      "ticketTopic":"cse",
+      "ratingGrade": 8,
+      "examGrade": 8,
+      "finalGrade": 0,
+      "status": "na",
+      "details": [
+        0
+      ]
+    },
+    {
+      "id": 16,
+      "name": "pooja",
+      "fullName": "SomeThing",
+      "ticketNumber": 116,
+      "ticketTopic":"cse",
+      "ratingGrade": 3,
+      "examGrade": 2,
+      "finalGrade": 0,
+      "status": "na",
+      "details": [
+        0
+      ]
+    },
+    {
+      "id": 17,
+      "name": "aman",
+      "fullName": "SomeThing",
+      "ticketNumber": 117,
+      "ticketTopic":"cse",
+      "ratingGrade": 6,
+      "examGrade": 6,
+      "finalGrade": 0,
+      "status": "na",
+      "details": [
+        0
+      ]
+    },
+    {
+      "id": 18,
+      "name": "bott",
+      "fullName": "SomeThing",
+      "ticketNumber": 118,
+      "ticketTopic":"cse",
+      "ratingGrade": 3,
+      "examGrade": 1,
+      "finalGrade": 0,
+      "status": "na",
+      "details": [
+        0
+      ]
+    },
+    {
+      "id": 19,
+      "name": "mani",
+      "fullName": "SomeThing",
+      "ticketNumber": 119,
+      "ticketTopic":"cse",
+      "ratingGrade": 9,
+      "examGrade": 8,
+      "finalGrade": 0,
+      "status": "na",
+      "details": [
+        0
+      ]
+    },
+    {
+      "id": 20,
+      "name": "sakshi",
+      "fullName": "SomeThing",
+      "ticketNumber": 120,
+      "ticketTopic":"cse",
+      "ratingGrade": 5,
+      "examGrade": 5,
+      "finalGrade": 0,
+      "status": "na",
+      "details": [
+        0
+      ]
+    }
+  ]
