@@ -17,7 +17,7 @@ export const HomePageHeader = ()=>{
                 <span className='college grid-item'> <FaSchool style={{ color: '#392c2c', fontSize: '1.2rem' }} /> University : Lovely Professional University</span>
                 <span className='dept grid-item'> <FaBuilding style={{ color: '#392c2c', fontSize: '1.3rem' }} /> Department : CSE</span>
                 <span className='title grid-item'> <FaRegEdit style={{ color: '#392c2c', fontSize: '1.2rem' }} /> Title : Front-End</span>
-                <span className='professor grid-item'> <FaUserTie style={{ color: '#392c2c', fontSize: '1.2rem' }} /> Professor : Vijayabhaskar Menta</span>
+                <span className='professor grid-item'> <FaUserTie style={{ color: '#392c2c', fontSize: '1.2rem' }} /> Professor : Mir Junaid Rasool</span>
                 <span className='group grid-item'> <FaUsers style={{ color: '#392c2c', fontSize: '1.3rem' }} /> Group : KE101</span>
                 <span className='sem grid-item'> <FaBookOpen style={{ color: '#392c2c', fontSize: '1.3rem' }} /> Semester : 2</span>
             </div></>
